@@ -1,0 +1,5 @@
+{
+  "name": "Modul Kokurikuler Generator",
+  "description": "An AI-powered tool for generating co-curricular planning documents for elementary schools in Indonesia, based on the 'Kurikulum Merdeka'. This app helps educators create structured and printable plans by selecting various parameters.",
+  "requestFramePermissions": []
+}
